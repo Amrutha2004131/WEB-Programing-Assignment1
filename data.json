@@ -1,0 +1,64 @@
+{
+    "graph": [
+        {
+            "id": "product-1",
+            "type": "Product",
+            "name": "HP Laptop",
+            "category": "Electronics",
+            "description": "Laptop suitable for programming and academic work.",
+            "price": 50000,
+            "brand": "HP",
+            "stock": 10
+        },
+        {
+            "id": "product-2",
+            "type": "Product",
+            "name": "Python Programming Book",
+            "category": "Books",
+            "description": "Beginner friendly book for learning Python programming.",
+            "price": 450,
+            "brand": "Tech Books",
+            "stock": 15
+        },
+        {
+            "id": "product-3",
+            "type": "Product",
+            "name": "College Bag",
+            "category": "Bags",
+            "description": "Durable backpack suitable for college students.",
+            "price": 1200,
+            "brand": "Campus",
+            "stock": 8
+        },
+        {
+            "id": "product-4",
+            "type": "Product",
+            "name": "Wireless Mouse",
+            "category": "Electronics",
+            "description": "Wireless mouse suitable for laptops and desktop computers.",
+            "price": 650,
+            "brand": "Logitech",
+            "stock": 20
+        },
+        {
+            "id": "product-5",
+            "type": "Product",
+            "name": "Notebook",
+            "category": "Stationery",
+            "description": "College notebook with 200 ruled pages.",
+            "price": 120,
+            "brand": "Classmate",
+            "stock": 30
+        },
+        {
+            "id": "product-6",
+            "type": "Product",
+            "name": "USB Keyboard",
+            "category": "Electronics",
+            "description": "Standard USB keyboard for computers.",
+            "price": 800,
+            "brand": "Dell",
+            "stock": 12
+        }
+    ]
+}
